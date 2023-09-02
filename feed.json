@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "黑天想成为偶像",
+    "home_page_url": "Krishna.github.io/",
+    "feed_url": "Krishna.github.io/feed.json",
+    "description": "希望能成为一个有趣的人",
+    "icon": "Krishna.github.io/images/phott.jpg",
+    "author": {
+        "name": "黑天君",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<h2>Valaxy</h2>\n<p>Next Generation Static Blog Framework.</p>\n<p>Write your first post!</p>\n<h2>Usage</h2>\n<p>Modify `valaxy</p>\n",
+            "url": "Krishna.github.io/posts/hello-valaxy",
+            "title": "Hello, Valaxy!",
+            "date_modified": "2022-04-01T00:00:00.000Z",
+            "date_published": "2022-04-01T00:00:00.000Z",
+            "author": {
+                "name": "黑天君",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}

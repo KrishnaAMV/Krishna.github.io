@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: Krishna.github.io/sitemap.xml
