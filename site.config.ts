@@ -1,6 +1,7 @@
 import { defineSiteConfig } from 'valaxy'
 
 export default defineSiteConfig({
+  url: "Krishna.github.io",
   lang: 'zh-CN',
   title: '黑天想成为偶像',
   subtitle: 'All at sea.',
